@@ -14,10 +14,10 @@
     2. Apa itu operating system? : Operating System adalah penghubung antara software dan hardware agar dapat digunakan oleh pengguna. Dalam sebuah komputer ataupun server memerlukan minimal satu sistem operasi agar dapat digunakan untuk menjalankan suatu program.
 ```
 #TASK 3 :
-```
+
   <h1>Installation Ubuntu Server</h1>
 
   1.  Buka Virtual machine kalian, untuk contohnya disini menggunakan VirtualBox. Jika sudah langsung klik saja di bagian NEW.
-  ![image](https://user-images.githubusercontent.com/84585203/224907878-c3c73831-75bf-46eb-9b1d-7c1ea75095d7.png)
+  ![image.png](https://github.com/rifai-rizqi3/devops16-dw-Rizqi/issues/1#issue-1622778624)
 
-```
+
