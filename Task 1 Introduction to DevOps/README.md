@@ -18,5 +18,6 @@
   <h1>Installation Ubuntu Server</h1>
 
   1.  Buka Virtual machine kalian, untuk contohnya disini menggunakan VirtualBox. Jika sudah langsung klik saja di bagian NEW.
-  
+  ![image](https://user-images.githubusercontent.com/84585203/224907878-c3c73831-75bf-46eb-9b1d-7c1ea75095d7.png)
+
 ```
