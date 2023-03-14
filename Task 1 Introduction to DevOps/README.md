@@ -13,4 +13,10 @@
     1. Jelaskan konsep dari HyperVisor! : Hypervisor adalah salah satu teknik virtualisasi yang bertugas untuk membagi-bagikan sumber daya dan mengalokasikannya ke beberapa sistem operasi/virtual machine yang berbeda. 
     2. Apa itu operating system? : Operating System adalah penghubung antara software dan hardware agar dapat digunakan oleh pengguna. Dalam sebuah komputer ataupun server memerlukan minimal satu sistem operasi agar dapat digunakan untuk menjalankan suatu program.
 ```
+#TASK 3 :
+```
+  <h1>Installation Ubuntu Server</h1>
 
+  1.  Buka Virtual machine kalian, untuk contohnya disini menggunakan VirtualBox. Jika sudah langsung klik saja di bagian NEW.
+  
+```
