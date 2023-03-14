@@ -54,7 +54,8 @@
   12. Jika sudah akan muncul tampilan seperti ini, lalu pilih Try or Install Ubuntu Server
   <br>![Screenshot from 2023-03-14 13-10-02](https://user-images.githubusercontent.com/84585203/224913031-0f7443f1-1047-43ac-904f-7c5790dc654b.png)</br>
 
-
+  13. Selanjutnya Ikuti petunjuk instalasi seperti gambar dibawah ini :
+  <br>
 ![VirtualBox_dumbways-server_14_03_2023_13_11_56](https://user-images.githubusercontent.com/84585203/224925703-a0f67489-1a59-41ae-a77a-3b29183bf4a6.png)
 ![VirtualBox_dumbways-server_14_03_2023_13_12_17](https://user-images.githubusercontent.com/84585203/224925760-b9b41fed-7b82-4811-bde7-b81392fa6c49.png)
 ![VirtualBox_dumbways-server_14_03_2023_14_06_40](https://user-images.githubusercontent.com/84585203/224925765-d2c2f727-1489-46b7-bcbd-2ded10f5f48b.png)
@@ -72,5 +73,4 @@
 ![VirtualBox_dumbways-server_14_03_2023_14_19_44](https://user-images.githubusercontent.com/84585203/224925799-553bbedf-84ef-415b-8181-5486e3a2be25.png)
 ![VirtualBox_dumbways-server_14_03_2023_14_23_01](https://user-images.githubusercontent.com/84585203/224925802-f2d0be01-a709-4e8b-b68b-b38a2af59934.png)
 ![VirtualBox_dumbways-server_14_03_2023_14_23_28](https://user-images.githubusercontent.com/84585203/224925806-677c37a5-1c4b-41e6-b43f-ecf26a065133.png)
-
-
+  </br>
