@@ -18,6 +18,9 @@
   <h1>Installation Ubuntu Server</h1>
 
   1.  Buka Virtual machine kalian, untuk contohnya disini menggunakan VirtualBox. Jika sudah langsung klik saja di bagian NEW.
-  ![image.png](https://github.com/rifai-rizqi3/devops16-dw-Rizqi/issues/1#issue-1622778624)
+
+  ![Screenshot from 2023-03-14 12-45-42](https://user-images.githubusercontent.com/84585203/224908148-d3bd15da-e18c-428b-8ef3-d4375cad5245.png)
+
+
 
 
