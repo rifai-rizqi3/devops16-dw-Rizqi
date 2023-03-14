@@ -55,12 +55,22 @@
   <br>![Screenshot from 2023-03-14 13-10-02](https://user-images.githubusercontent.com/84585203/224913031-0f7443f1-1047-43ac-904f-7c5790dc654b.png)</br>
 
 
-
-
-
-
-
-
-
+![VirtualBox_dumbways-server_14_03_2023_13_11_56](https://user-images.githubusercontent.com/84585203/224925703-a0f67489-1a59-41ae-a77a-3b29183bf4a6.png)
+![VirtualBox_dumbways-server_14_03_2023_13_12_17](https://user-images.githubusercontent.com/84585203/224925760-b9b41fed-7b82-4811-bde7-b81392fa6c49.png)
+![VirtualBox_dumbways-server_14_03_2023_14_06_40](https://user-images.githubusercontent.com/84585203/224925765-d2c2f727-1489-46b7-bcbd-2ded10f5f48b.png)
+![VirtualBox_dumbways-server_14_03_2023_14_06_56](https://user-images.githubusercontent.com/84585203/224925767-44d45119-5476-44f4-8165-5df5ac787dbe.png)
+![VirtualBox_dumbways-server_14_03_2023_14_07_13](https://user-images.githubusercontent.com/84585203/224925771-4987079b-b280-4e13-9d39-580ed31a7154.png)
+![VirtualBox_dumbways-server_14_03_2023_14_07_30](https://user-images.githubusercontent.com/84585203/224925773-5069a28c-2d94-4535-85ec-cb2a3770de99.png)
+![VirtualBox_dumbways-server_14_03_2023_14_07_42](https://user-images.githubusercontent.com/84585203/224925778-dfd8fd31-1ec9-4328-965d-7f816155f913.png)
+![VirtualBox_dumbways-server_14_03_2023_14_08_03](https://user-images.githubusercontent.com/84585203/224925780-2fa194e2-f8d7-40c4-af2f-76c1df29b88f.png)
+![VirtualBox_dumbways-server_14_03_2023_14_08_15](https://user-images.githubusercontent.com/84585203/224925782-443b6382-a896-4874-9185-a9523611d8b1.png)
+![VirtualBox_dumbways-server_14_03_2023_14_09_06](https://user-images.githubusercontent.com/84585203/224925784-a57ced66-1146-4353-8e33-f6513b947ded.png)
+![VirtualBox_dumbways-server_14_03_2023_14_09_18](https://user-images.githubusercontent.com/84585203/224925786-bb3a38c1-47d3-4088-85d1-5909965b6f98.png)
+![VirtualBox_dumbways-server_14_03_2023_14_09_42](https://user-images.githubusercontent.com/84585203/224925792-bca59037-5c64-48b8-9469-d5ef8a0a89e4.png)
+![VirtualBox_dumbways-server_14_03_2023_14_09_55](https://user-images.githubusercontent.com/84585203/224925794-6b9407aa-477a-4510-97c6-5a9c7466ad5e.png)
+![VirtualBox_dumbways-server_14_03_2023_14_10_07](https://user-images.githubusercontent.com/84585203/224925797-35f48eb1-8983-44dd-af5e-a10ae251dfc5.png)
+![VirtualBox_dumbways-server_14_03_2023_14_19_44](https://user-images.githubusercontent.com/84585203/224925799-553bbedf-84ef-415b-8181-5486e3a2be25.png)
+![VirtualBox_dumbways-server_14_03_2023_14_23_01](https://user-images.githubusercontent.com/84585203/224925802-f2d0be01-a709-4e8b-b68b-b38a2af59934.png)
+![VirtualBox_dumbways-server_14_03_2023_14_23_28](https://user-images.githubusercontent.com/84585203/224925806-677c37a5-1c4b-41e6-b43f-ecf26a065133.png)
 
 
