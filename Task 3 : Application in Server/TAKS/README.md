@@ -14,9 +14,11 @@ Masuk ke directory ```dumbflix-frontend``` lalu instal npm dengan cara ```npm in
 
 ![Screenshot from 2023-03-15 20-42-55](https://user-images.githubusercontent.com/84585203/225331251-c9400a91-3e66-47e3-bbf5-1bf6f12caf61.png)
 
-Lalu configurasi ```api.js```
+Lalu configurasi ```api.js``` seperti gambar dibawah :
 
 ![Screenshot from 2023-03-15 20-47-07](https://user-images.githubusercontent.com/84585203/225331258-225e81d1-f41b-4470-98dc-cefa94473216.png)
+
+![Screenshot from 2023-03-15 20-47-20](https://user-images.githubusercontent.com/84585203/225333545-ce440c49-668e-4325-8f22-9439e9000c1a.png)
 
 
 # 2. Golang
