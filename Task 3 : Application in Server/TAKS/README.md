@@ -20,6 +20,8 @@ Lalu configurasi ```api.js``` seperti gambar dibawah :
 
 ![Screenshot from 2023-03-15 20-47-20](https://user-images.githubusercontent.com/84585203/225333545-ce440c49-668e-4325-8f22-9439e9000c1a.png)
 
+Lalu jalankan perintah ```npm start```
+
 
 # 2. Golang
 
