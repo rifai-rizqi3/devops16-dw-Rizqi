@@ -20,7 +20,9 @@ Lalu configurasi ```api.js``` seperti gambar dibawah :
 
 ![Screenshot from 2023-03-15 20-47-20](https://user-images.githubusercontent.com/84585203/225333545-ce440c49-668e-4325-8f22-9439e9000c1a.png)
 
-Lalu jalankan perintah ```npm start```
+Lalu jalankan perintah ```npm start``` dan masukan IP serta port default ```3000``` hasilnya seperti berikut :
+
+![Screenshot from 2023-03-15 20-54-09](https://user-images.githubusercontent.com/84585203/225334290-158c1c34-048d-4d35-a266-5f6aa43d4592.png)
 
 
 # 2. Golang
