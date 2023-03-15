@@ -1,6 +1,6 @@
 # TASK
 
-<h1>Tugas :</h1>
+## Tugas :
 
 1. Jelaskan apa itu Bourne-Again Shell (BASH)!
 
