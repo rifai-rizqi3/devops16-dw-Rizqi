@@ -1,4 +1,4 @@
-#TAKS 1 :
+# TAKS 1 :
 ```
   1.  Definisi DevOps : DevOps adalah sebuah prinsip developer untuk mengkoordinasikan antar tim yaitu tim development dengan tim operations dengan efektif dan efisien
   2.  3 lifecycle DevOps : 
@@ -8,12 +8,12 @@
 
     Build : Aplikasi yang sudah siap untuk masuk ke tahap pengujian, akan langsung di build supaya dapat mengetahui apakah kode tersebut masih terdapat error atau sudah layak masuk ke divisi tester.
 ```
-#TAKS 2 :
+# TAKS 2 :
 ```
     1. Jelaskan konsep dari HyperVisor! : Hypervisor adalah salah satu teknik virtualisasi yang bertugas untuk membagi-bagikan sumber daya dan mengalokasikannya ke beberapa sistem operasi/virtual machine yang berbeda. 
     2. Apa itu operating system? : Operating System adalah penghubung antara software dan hardware agar dapat digunakan oleh pengguna. Dalam sebuah komputer ataupun server memerlukan minimal satu sistem operasi agar dapat digunakan untuk menjalankan suatu program.
 ```
-#TASK 3 :
+# TASK 3 :
 
   <h1>Installation Ubuntu Server</h1>
 
