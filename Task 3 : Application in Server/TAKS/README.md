@@ -1,5 +1,22 @@
 # 1. Node Js
 
+Cek Versi NodeJs dengan cara ```node -v```
+
+![Screenshot from 2023-03-15 20-41-57](https://user-images.githubusercontent.com/84585203/225331243-b27e2dbb-780e-4831-ad58-f96327866b12.png)
+
+Clone repo 
+
+```git clone https://github.com/dumbwaysdev/dumbflix-frontend```
+
+![Screenshot from 2023-03-15 20-39-46](https://user-images.githubusercontent.com/84585203/225331226-bdbaef8d-0563-4847-900e-9d02ff250279.png)
+
+Masuk ke directory ```dumbflix-frontend``` lalu instal npm dengan cara ```npm install```
+
+![Screenshot from 2023-03-15 20-42-55](https://user-images.githubusercontent.com/84585203/225331251-c9400a91-3e66-47e3-bbf5-1bf6f12caf61.png)
+
+Lalu configurasi ```api.js```
+
+![Screenshot from 2023-03-15 20-47-07](https://user-images.githubusercontent.com/84585203/225331258-225e81d1-f41b-4470-98dc-cefa94473216.png)
 
 
 # 2. Golang
