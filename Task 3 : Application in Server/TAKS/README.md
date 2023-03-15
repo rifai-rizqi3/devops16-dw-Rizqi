@@ -1,6 +1,6 @@
 # 1. Node Js
 
-## 1. Install NodeJS di server kalian dan gunakan versi 10.24.1
+
 
 # 2. Golang
 
@@ -49,3 +49,49 @@ Jalankan command berikut untuk build aplikasi ```go build index.go```
 Setelah selesai build, jalan berikut untuk menjalankan aplikasi ```./index```
 
 ![Screenshot from 2023-03-15 19-41-21](https://user-images.githubusercontent.com/84585203/225312447-cc6528ee-0375-46b9-8746-419e844c3161.png)
+
+# Python
+
+Secara default,python sudah terinstall secara default di instalasi ubuntu. Pastikan dengan menjalankan command berikut ```python3 -v```
+
+gambar
+
+Jalankan command berikut jika belum terinstal ```sudo apt-get install python3```
+
+Install package manager python yang bernama pip dengan command berikut ```sudo apt install python3-pip```
+
+gambar
+
+Kita akan membuat aplikasi web dengan framework Flask. Install Flask melalui pip ```pip install flask```
+
+gambar
+
+Buat file ```index.py``` lalu isikan script berikut
+
+```
+from flask import Flask
+app = Flask(__name__)
+@app.route("/")
+def helloworld():
+    return "Hello Dumbways!"
+if __name__ == "__main__":
+    app.run()
+```
+
+gambar
+
+Pada bagian ```app.run()``` rubah menjadi seperti ini agar bisa diakses dari ip lain atau pc lain
+
+```
+app.run(host="0.0.0.0")
+```
+
+gambar
+
+Jalankan aplikasi dengan command berikut ```python3 index.py```
+
+gambar
+
+Buka ip server dengan port ```5000``` melalui browser
+
+gambar
