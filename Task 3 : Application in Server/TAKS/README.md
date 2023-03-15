@@ -52,7 +52,7 @@ Setelah selesai build, jalan berikut untuk menjalankan aplikasi ```./index```
 
 # Python
 
-Secara default,python sudah terinstall secara default di instalasi ubuntu. Pastikan dengan menjalankan command berikut ```python3 -v```
+Secara default,python sudah terinstall secara default di instalasi ubuntu. Pastikan dengan menjalankan command berikut ```python3 -V```
 
 gambar
 
