@@ -54,17 +54,17 @@ Setelah selesai build, jalan berikut untuk menjalankan aplikasi ```./index```
 
 Secara default,python sudah terinstall secara default di instalasi ubuntu. Pastikan dengan menjalankan command berikut ```python3 -V```
 
-gambar
+![Screenshot from 2023-03-15 20-11-33](https://user-images.githubusercontent.com/84585203/225322230-9f3b7372-0b68-429d-bce3-877dda585137.png)
 
 Jalankan command berikut jika belum terinstal ```sudo apt-get install python3```
 
 Install package manager python yang bernama pip dengan command berikut ```sudo apt install python3-pip```
 
-gambar
+![Screenshot from 2023-03-15 20-12-20](https://user-images.githubusercontent.com/84585203/225322234-5cd93189-e760-447d-a286-f33ac74fcca2.png)
 
 Kita akan membuat aplikasi web dengan framework Flask. Install Flask melalui pip ```pip install flask```
 
-gambar
+![Screenshot from 2023-03-15 20-12-57](https://user-images.githubusercontent.com/84585203/225322240-cac7f5e2-8fa1-47d3-b917-6189ae49f38f.png)
 
 Buat file ```index.py``` lalu isikan script berikut
 
@@ -78,7 +78,7 @@ if __name__ == "__main__":
     app.run()
 ```
 
-gambar
+![Screenshot from 2023-03-15 20-15-27](https://user-images.githubusercontent.com/84585203/225322243-714036a8-8dc6-4a3a-a8db-380d20050d49.png)
 
 Pada bagian ```app.run()``` rubah menjadi seperti ini agar bisa diakses dari ip lain atau pc lain
 
@@ -86,12 +86,10 @@ Pada bagian ```app.run()``` rubah menjadi seperti ini agar bisa diakses dari ip 
 app.run(host="0.0.0.0")
 ```
 
-gambar
-
 Jalankan aplikasi dengan command berikut ```python3 index.py```
 
-gambar
+![Screenshot from 2023-03-15 20-18-04](https://user-images.githubusercontent.com/84585203/225322246-f7e7d379-7243-4a4b-aca2-65093bee985d.png)
 
 Buka ip server dengan port ```5000``` melalui browser
 
-gambar
+![Screenshot from 2023-03-15 20-20-19](https://user-images.githubusercontent.com/84585203/225322252-b38e37a5-7b8d-4899-a30b-4a7b14de4514.png)
