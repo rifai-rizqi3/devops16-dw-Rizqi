@@ -99,14 +99,16 @@ beberapa command menjadi satu. Beberapa operatornya antara lain adalah
 
 ### htop
 
-![](./images/media/image18.png) 
+![Screenshot from 2023-03-20 18-28-30](https://user-images.githubusercontent.com/84585203/226327491-3f933260-4657-4b37-a25b-0dc0c2598075.png)
+
 
 ### nmon 
 
-![](./images/media/image19.png) \
-![](./images/media/image20.png) 
-
-
+![Screenshot from 2023-03-20 18-29-19](https://user-images.githubusercontent.com/84585203/226327487-20c5d987-be99-4412-a09c-c202b2d50d34.png)
+![Screenshot from 2023-03-20 18-30-48](https://user-images.githubusercontent.com/84585203/226327467-489f90b4-0f8b-47ab-a58c-05836abf6247.png)
+![Screenshot from 2023-03-20 18-30-31](https://user-images.githubusercontent.com/84585203/226327476-f27a1307-55fc-4b4e-8169-6ce4ee46b78f.png)
+![Screenshot from 2023-03-20 18-29-50](https://user-images.githubusercontent.com/84585203/226327478-fb455647-28d8-456d-8342-572f2a7462e9.png)
+![Screenshot from 2023-03-20 18-29-40](https://user-images.githubusercontent.com/84585203/226327482-8c53f552-993c-43d5-9038-1880aa5e94fe.png)
 
 ## Membuat script bash untuk update dan upgrade
 
