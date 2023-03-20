@@ -106,20 +106,7 @@ beberapa command menjadi satu. Beberapa operatornya antara lain adalah
 ![](./images/media/image19.png) \
 ![](./images/media/image20.png) 
 
-### ps 
 
-Digunakan untuk melihat proses yang sedang berjalan
-
-![](./images/media/image21.png) 
-
-### lsof
-
-lsof (list of open files) digunakan untuk melihat file yang saat ini
-digunakan proses
-
-![](./images/media/image22.png) 
-
-![](./images/media/image23.png)
 
 ## Membuat script bash untuk update dan upgrade
 
