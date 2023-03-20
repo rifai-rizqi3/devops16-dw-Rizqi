@@ -94,6 +94,15 @@ beberapa command menjadi satu. Beberapa operatornya antara lain adalah
     command ke file. Jika file sudah ada, maka isinya tidak akan dihapus
     lalu output command akan dimasukkan ke line terakhir file\
     ![](./images/media/image17.png) 
+    
+### apt update, install nginx dan open port
+
+![Screenshot from 2023-03-20 18-40-55](https://user-images.githubusercontent.com/84585203/226329230-0f295199-4119-4e56-8cb5-06ef91167d10.png)
+![Screenshot from 2023-03-20 18-40-39](https://user-images.githubusercontent.com/84585203/226329241-51ad17ed-d288-4e13-b560-b2442af8f65a.png)
+![Screenshot from 2023-03-20 18-39-30](https://user-images.githubusercontent.com/84585203/226329244-6d30c05b-c6d2-4bf8-9a2b-b21e3115835d.png)
+![Screenshot from 2023-03-20 18-38-44](https://user-images.githubusercontent.com/84585203/226329248-042c46cc-0645-466d-beb5-4d7c8d4970b9.png)
+![Screenshot from 2023-03-20 18-38-00](https://user-images.githubusercontent.com/84585203/226329253-bad620b4-79f6-4e84-909c-7fa69ffcb8ac.png)
+
 
 ## Aplikasi untuk monitoring
 
